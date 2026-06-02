@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mobile_programing</string>
+    <string name="title_why_choose">Why Choose RAStudio?</string>
+    <string name="label_professional_photographers">Professional Photographers</string>
+    <string name="desc_certified_experts">Certified experts</string>
+    <string name="label_fast_delivery">Fast Delivery</string>
+    <string name="desc_within_3_5_days">Within 3–5 days</string>
+    <string name="label_premium_editing">Premium Editing</string>
+    <string name="desc_studio_grade_quality">Studio-grade quality</string>
+    <string name="label_best_customer_service">Best Customer Service</string>
+    <string name="desc_24_7_support">24/7 support</string>
+</resources>
